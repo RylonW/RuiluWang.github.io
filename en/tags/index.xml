@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Hugo Zzo Theme</title>
-    <link>http://RuiluWang.org/en/tags/</link>
+    <link>https://rylonw.github.io/RuiluWang.github.io/en/tags/</link>
     <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>ruiluwang2rylonw@gmail.com (Ruilu Wang)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     
-        <atom:link href="http://RuiluWang.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rylonw.github.io/RuiluWang.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       

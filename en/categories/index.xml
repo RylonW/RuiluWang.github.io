@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Hugo Zzo Theme</title>
-    <link>http://RuiluWang.org/en/categories/</link>
+    <link>https://rylonw.github.io/RuiluWang.github.io/en/categories/</link>
     <description>Recent content in Categories on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>ruiluwang2rylonw@gmail.com (Ruilu Wang)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     
-        <atom:link href="http://RuiluWang.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rylonw.github.io/RuiluWang.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
