@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://rylonw.github.io/RuiluWang.github.io/en/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2024-02-19T15:43:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -19,6 +19,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rylonw.github.io/RuiluWang.github.io/en/"
+                />
+  </url><url>
+    <loc>https://rylonw.github.io/RuiluWang.github.io/en/showcase/</loc>
+    <lastmod>2024-02-19T15:43:38+09:00</lastmod>
+  </url><url>
+    <loc>https://rylonw.github.io/RuiluWang.github.io/en/resume/</loc>
+    <lastmod>2024-02-09T20:13:59+09:00</lastmod>
+  </url><url>
+    <loc>https://rylonw.github.io/RuiluWang.github.io/en/about/</loc>
+    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://rylonw.github.io/RuiluWang.github.io/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rylonw.github.io/RuiluWang.github.io/en/about/"
                 />
   </url><url>
     <loc>https://rylonw.github.io/RuiluWang.github.io/en/publication/article/</loc>
@@ -33,14 +52,8 @@
     <loc>https://rylonw.github.io/RuiluWang.github.io/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://rylonw.github.io/RuiluWang.github.io/en/resume/</loc>
-    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
-  </url><url>
     <loc>https://rylonw.github.io/RuiluWang.github.io/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
-  </url><url>
-    <loc>https://rylonw.github.io/RuiluWang.github.io/en/showcase/</loc>
-    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url><url>
     <loc>https://rylonw.github.io/RuiluWang.github.io/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
@@ -107,19 +120,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rylonw.github.io/RuiluWang.github.io/en/archive/"
-                />
-  </url><url>
-    <loc>https://rylonw.github.io/RuiluWang.github.io/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://rylonw.github.io/RuiluWang.github.io/ko/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rylonw.github.io/RuiluWang.github.io/en/about/"
                 />
   </url><url>
     <loc>https://rylonw.github.io/RuiluWang.github.io/en/publication/article/article_any_folder_name_1/</loc>
